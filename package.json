@@ -1,0 +1,8 @@
+{
+  "name": "jkfetch",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Librería para obtener y cachear animes en JSON",
+  "main": "index.js",
+  "dependencies": {}
+}
